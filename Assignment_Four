@@ -1,0 +1,14 @@
+Question 1: What is html?
+Answer:- HTML stand for Hyper Text Markup Language. It is used to create structure of the web page.
+
+Question 2: What is css?
+Answer:- CSS stand for Cascading Style Sheet. It is used to give beautifull look of web page.
+
+Question 3: What is javascript?
+Answer:- Javascript is client side programming language. It run on browser, It is used to make logic of the web page.
+
+Question 4: History of Javascript andd Ecmascript. Explain in your own words.
+Answer:-Hilstiory of Javascript:-JavaScript was created by Brendan Eich in just 10 days in May 1995 while he was working at Netscape Communications. It was initially called Mocha, then renamed to LiveScript, and finally to JavaScript.It was designed to make web pages more interactive and dynamic, allowing for things like form validation, animations, and user interactions directly in the browser.
+        History of Ecmascript:-262: In 1997, ECMA International (a standards organization) released the first edition of ECMAScript, known as ECMA-262. This defined the core features and syntax of the language.
+
+
